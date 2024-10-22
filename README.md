@@ -74,6 +74,8 @@ Recommendation: Focus on marketing towards the middle-aged demographic, offering
 4. Number of Children
    
  Overall: Buyers with no children purchased the most bikes (142), while those with 5 children bought the fewest (18).
+
+![Children](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/No%20of%20children.PNG?raw=true)
  
  By Region:
  
