@@ -116,6 +116,16 @@ Insight: Bike purchases are most common among Professionals, particularly in Nor
 Recommendation: Focus on targeting professionals and skilled workers, offering models that appeal to their lifestyle and commuting needs.
 
 
+The following dashboard illustrates the bike sales trends specifically for the Europe region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
+
+
+
+
+The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
+
+
+
+The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
 
  Recommendations
  
