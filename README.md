@@ -37,6 +37,9 @@ Recommendation: Target high income earners with premium bike models, especially 
 2. Commuter Distance
    
 Overall: Buyers who commute 0-1 miles purchase the most bikes (200 bikes); making this group the key target for sales. Those commuting more than 10 miles buy the fewest (46 bikes).
+
+![Commuter Distance](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Commuter%20distance.PNG?raw=true)
+
  By Region:
  
  In Europe, short commutes (0-1 miles) dominate bike sales (102 bikes), while distances over 10 miles see the least sales (3 bikes).
