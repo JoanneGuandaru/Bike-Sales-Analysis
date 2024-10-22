@@ -56,6 +56,8 @@ Recommendation: Offer marketing campaigns that highlight bikes as an ideal choic
 3. Age Impact on Bike Sales
    
  Overall: The Middle aged group (31-49 years) dominates bike purchases, accounting for 336 bikes; making up 68% of bike purchases. The younger (under 30) and older groups (over 50) lag far behind.
+
+![Age](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Age.PNG?raw=true)
  
  By Region:
  
