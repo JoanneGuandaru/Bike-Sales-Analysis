@@ -161,6 +161,7 @@ Graduate Degree: The following dashboard illustrates the bike sales trends speci
 
 Partial High School: The following dashboard illustrates the bike sales trends specifically for individuals with Partial High school education providing a visual summary of the insights discussed above on income).
 
+![Partial High School](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Partial%20High%20School.PNG?raw=true)
 
  
  Recommendations
