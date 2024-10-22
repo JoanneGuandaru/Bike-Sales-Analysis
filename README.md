@@ -127,6 +127,9 @@ The following dashboard illustrates the bike sales trends specifically for the N
 
 The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
 
+![Pacific](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Pacific.PNG?raw=true)
+
+
  Recommendations
  
 1. Target Middle-Aged Buyers:
