@@ -94,6 +94,8 @@ Recommendation: Tailor product offerings for single buyers or small families, fo
 5. Number of Cars
    
  Overall: Households with one car made up the largest segment of buyers (152 bikes sold), followed closely by households with no cars (151 bikes sold), highlighting the demand for alternative transportation among this group.
+
+![Cars](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/No%20of%20cars.PNG?raw=true)
  
  By Region:
  
