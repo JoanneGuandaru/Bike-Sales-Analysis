@@ -127,20 +127,30 @@ Insight: Bike purchases are most common among Professionals, particularly in Nor
 Recommendation: Focus on targeting professionals and skilled workers, offering models that appeal to their lifestyle and commuting needs.
 
 
-The following dashboard illustrates the bike sales trends specifically for the Europe region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
+DASHBOARDS FILTERED BY VARIOUS FACTORS
+
+1. Regions
+   
+The following dashboard illustrates the bike sales trends specifically for the Europe region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
 
 ![Europe](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Europe.PNG?raw=true)
 
 
-The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
+The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
 
 ![North America](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/North%20America.PNG?raw=true)
 
-The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
+The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
 
 ![Pacific](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Pacific.PNG?raw=true)
 
 
+2. Marital Status
+
+The following dashboard illustrates the bike sales trends specifically for married individuals, providing a visual summary of the insights discussed above. (income, age, commuter distance, and other factors).
+
+![Married](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Married%20status.PNG?raw=true)
+   
  Recommendations
  
 1. Target Middle-Aged Buyers:
