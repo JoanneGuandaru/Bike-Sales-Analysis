@@ -1,8 +1,10 @@
-# Bike-Sales-Analysis
+# Bike Sales Analysis
 
  Introduction
  
 In this project, I developed an Excel dashboard to analyze the factors influencing bike purchases. The primary objective was to understand the demographic and socio-economic variables driving bike sales. I explored various dimensions, such as income, gender, commuter distance, number of children, vehicles owned, age, and occupation. The dashboard provided insights filtered by region (Europe, North America, Pacific), marital status (Married, Single), and education level (Bachelor’s, Graduate, High School, Partial College, Partial High School). The data underwent a thorough cleaning process before analysis, including removing duplicates, creating age brackets, and addressing missing data and errors. I also used pivot tables to analyze various attributes.
+
+![Bike Sales Dashboard](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Bike%20sales%20dashboard.PNG?raw=true)
 
  Key Findings
 
