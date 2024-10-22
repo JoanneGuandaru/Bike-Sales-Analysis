@@ -23,7 +23,7 @@ North America has the highest average income for both men and women, with men ea
  
  By Education:
  
- Graduate Degree holders have the highest average income ($69,049 for men, $61,698 for women), while Partial High School education shows the largest income disparity with men earning $58,000 and women $32,000.
+ Graduate Degree holders have the highest average income ($68,049 for men, $61,698 for women), while Partial High School education shows the largest income disparity with men earning $58,000 and women $32,000.
  
 By Marital Status
 
@@ -156,7 +156,7 @@ Married: The following dashboard illustrates the bike sales trends specifically 
 
 Graduate Degree: The following dashboard illustrates the bike sales trends specifically for individuals with Bachelors degrees, providing a visual summary of the insights discussed above on income.
 
-
+![Graduate Degree](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Graduate%20Degree.PNG?raw=true)
 
 
 Partial High School: The following dashboard illustrates the bike sales trends specifically for individuals with Partial High school education providing a visual summary of the insights discussed above on income).
