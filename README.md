@@ -112,6 +112,8 @@ Recommendation: Focus on marketing bikes as alternative transport solutions for 
    
 Overall: Professionals dominate bike purchases (150 bikes), followed by Skilled Manual workers (115 bikes). Management and Manual workers are the smallest groups.
 
+![Occupation](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Occupation.PNG?raw=true)
+
  By Region:
  
  North America has the largest number of Professionals purchasing bikes (94), while Europe has more Clerical workers purchasing bikes (64).
