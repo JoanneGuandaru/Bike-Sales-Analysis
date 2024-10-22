@@ -123,7 +123,7 @@ The following dashboard illustrates the bike sales trends specifically for the E
 
 The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
 
-
+![North America](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/North%20America.PNG?raw=true)
 
 The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
 
