@@ -11,9 +11,11 @@ In this project, I developed an Excel dashboard to analyze the factors influenci
 1. Income and Gender Impact on Bike Sales
    
  Overall: Men, on average, earn higher incomes ($60,124) than women ($55,774), and this pattern is observed across all regions. Europe had the largest gap, where males earned 18% more than females.
+
+ ![Income and Gender](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Income%20&%20Gender.PNG?raw=true)
  
  By Region:
-North America has the highest average income for both men and women, with men earning $65,455 and women $64,909 ; making the region the most lucrative for bike sales.
+North America has the highest average income for both men and women, with men earning $65,455 and women $64,909; making the region the most lucrative for bike sales.
 
  Europe has the lowest income levels for bike buyers, with women earning $39,136 and men $46,269.
  
