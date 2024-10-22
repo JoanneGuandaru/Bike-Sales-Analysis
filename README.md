@@ -118,7 +118,7 @@ Recommendation: Focus on targeting professionals and skilled workers, offering m
 
 The following dashboard illustrates the bike sales trends specifically for the Europe region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
 
-
+![Europe](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Europe.PNG?raw=true)
 
 
 The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed (income, age, commuter distance, and other factors).
