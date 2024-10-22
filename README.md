@@ -23,7 +23,7 @@ North America has the highest average income for both men and women, with men ea
  
  By Education:
  
- Graduate Degree holders have the highest average income ($68,049 for men, $61,698 for women), while Partial High School education shows the largest income disparity with men earning $58,000 and women $32,000.
+ Graduate Degree holders have the highest average income ($69,049 for men, $61,698 for women), while Partial High School education shows the largest income disparity with men earning $58,000 and women $32,000.
  
 By Marital Status
 
@@ -131,26 +131,38 @@ DASHBOARDS FILTERED BY VARIOUS FACTORS
 
 1. Regions
    
-The following dashboard illustrates the bike sales trends specifically for the Europe region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
+ Europe: The following dashboard illustrates the bike sales trends specifically for the Europe region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
 
 ![Europe](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Europe.PNG?raw=true)
 
 
-The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
+North America: The following dashboard illustrates the bike sales trends specifically for the North America region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
 
 ![North America](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/North%20America.PNG?raw=true)
 
-The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
+Pacific: The following dashboard illustrates the bike sales trends specifically for the Pacific region, providing a visual summary of the insights discussed above (income, age, commuter distance, and other factors).
 
 ![Pacific](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Pacific.PNG?raw=true)
 
 
 2. Marital Status
 
-The following dashboard illustrates the bike sales trends specifically for married individuals, providing a visual summary of the insights discussed above. (income, age, commuter distance, and other factors).
+Married: The following dashboard illustrates the bike sales trends specifically for married individuals, providing a visual summary of the insights discussed above. (income, age, commuter distance, and other factors).
 
 ![Married](https://github.com/JoanneGuandaru/Bike-Sales-Analysis/blob/main/Married%20status.PNG?raw=true)
    
+
+ 3. Education
+
+Graduate Degree: The following dashboard illustrates the bike sales trends specifically for individuals with Bachelors degrees, providing a visual summary of the insights discussed above on income.
+
+
+
+
+Partial High School: The following dashboard illustrates the bike sales trends specifically for individuals with Partial High school education providing a visual summary of the insights discussed above on income).
+
+
+ 
  Recommendations
  
 1. Target Middle-Aged Buyers:
@@ -179,4 +191,4 @@ For regions like Europe, where clerical workers are prominent, offering budget-f
 
 Dashboard Summary
 
-The Excel dashboard provides an interactive way to explore bike sales by filtering based on region, marital status, and education. It incorporates pivot tables and clean, well-organized data, giving a clear view of the factors influencing sales. By using this tool, businesses can identify key demographics, tailor their marketing efforts, and make informed decisions to drive bike sales growth.
+The Excel dashboard provides an interactive way to explore bike sales by filtering based on region, marital status, and education. It incorporates pivot tables and clean, well-organized data, giving a clear view of the factors influencing sales. By using this information, the business can identify key demographics, tailor their marketing efforts, and make informed decisions to drive bike sales growth.
